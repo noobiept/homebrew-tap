@@ -6,4 +6,6 @@
 
 # To get the new sha256 hash
 
-- `brew fetch (package) --build-from-source`
+- `brew install wget`
+- `wget (url)`
+- `shasum -a 256 (file)`
