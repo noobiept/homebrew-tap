@@ -4,7 +4,7 @@ class ScreenRuler < Formula
     desc "Screen ruler application"
     homepage "https://bitbucket.org/drk4/screen_ruler/"
     url "https://bitbucket.org/drk4/screen_ruler/downloads/screen_ruler-2.0.0.zip"
-    sha256 "ea64a24bb0a5467c2b0600a10bcd1eaa6eb626cd7034f51fe27b3bbb046453cd"
+    sha256 "984d7e607b0a5d1329425dd8845bd971b957424b5ba664729fab51ab8c11bc39"
 
     depends_on "pyside"
     depends_on "python"
