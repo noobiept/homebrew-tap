@@ -1,8 +1,8 @@
 class TicTacToe < Formula
     desc "Tic-tac-toe console game"
-    homepage "https://bitbucket.org/drk4/tic_tac_toe/"
-    url "https://bitbucket.org/drk4/tic_tac_toe/downloads/tic_tac_toe-1.4.0.zip"
-    sha256 "6976d2c544a5ac3c7031cafb69f3b403cacb221ec1fca1ccb2cc9690e9a2e657"
+    homepage "https://github.com/noobiept/tic_tac_toe"
+    url "https://github.com/noobiept/tic_tac_toe/archive/v1.4.1.zip"
+    sha256 "63c34495fde02b1b5b8b6be48b25b9d04f8b41846a5927944d0816db92d1719e"
 
     depends_on "swift"
 
