@@ -1,6 +1,6 @@
 # Installation #
 
--   `brew tap drk4/homebrew-tap https://github.com/noobiept/homebrew-tap/`
+-   `brew tap noobiept/tap`
 -   `brew install tic_tac_toe`
 -   `brew cask install screen_ruler`
 
