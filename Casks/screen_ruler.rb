@@ -1,8 +1,8 @@
 cask 'screen_ruler' do
-  version '2.3.0'
-  sha256 '0636841e3bbb71fc02f94d14cfc22788f2b63f827404c709b2d45c4d36153376'
+  version '2.3.1'
+  sha256 '59783c9ca30ecf754c5c99f3b4212520759daed60996f0d0335f3630a15288c9'
 
-  url "https://github.com/noobiept/screen_ruler/releases/download/v2.3.0/screen_ruler.tar.gz"
+  url "https://github.com/noobiept/screen_ruler/releases/download/v2.3.1/screen_ruler.tar.gz"
   name 'Screen Ruler'
   homepage 'https://github.com/noobiept/screen_ruler'
 
